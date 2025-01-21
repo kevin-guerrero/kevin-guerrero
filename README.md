@@ -47,12 +47,16 @@ I am a student of web application development "DAW" always motivated and eager t
 <h2>  Connect with me <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"width="28" /> </h2>
 <a href= "https://www.instagram.com/kevin_guerrer0/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  
+</a>
 <a href= "mailto:eduardogyerr@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-guerrero&show_icons=true&theme=radical)
+## GitHub Stats 📈
+<div align="left">  
+  <img width="38%" height="160px" src="https://github-readme-stats.vercel.app/api?username=kevin-guerrero&show_icons=true&theme=radical" alt="Kevin Guerrero github stats" /> 
+  <img width="38%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-guerrero&layout=compact&theme=radical" />
+</div>
 
 ---
 
