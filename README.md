@@ -53,10 +53,7 @@ I am a student of web application development "DAW" always motivated and eager t
 </a>
 
 ## GitHub Stats 📈
-<div align="left">  
-  <img width="38%" height="160px" src="https://github-readme-stats.vercel.app/api?username=kevin-guerrero&show_icons=true&theme=radical" alt="Kevin Guerrero github stats" /> 
-  <img width="38%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-guerrero&layout=compact&theme=radical" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=kevin-guerrero&show_icons=true&theme=radical" alt="Kevin Guerrero github stats" /> 
 
 ---
 
