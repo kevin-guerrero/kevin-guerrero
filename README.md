@@ -1,13 +1,12 @@
 <h1 align="center"><b>Hey there , I'm Kevin Guerrero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=220px alt="gif" src="https://media.tenor.com/Ly9-JCtgHCkAAAAj/dragon-dance-night-fury.gif" />
+<img align="right" width=190px alt="gif" src="https://media.tenor.com/Ly9-JCtgHCkAAAAj/dragon-dance-night-fury.gif" />
 
 <img src="https://media1.giphy.com/media/BqhITJcDIN6kfcNbqg/giphy.webp?cid=ecf05e47a0wi5jz1o9ieyv89709pg60hhpyjx84lxvbqgj5u&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="30px">&nbsp;***About me***
 
 I am a student of web application development "DAW" always motivated and eager to learn more.
 * **My goals are to become a full-stack programmer.**
 - I enjoy working both independently and as part of a team 🤝.
-
 ## Skills I'm learning and boosting 🚀
 
 <h4> Languages </h4>
