@@ -5,10 +5,8 @@
 <img src="https://media1.giphy.com/media/BqhITJcDIN6kfcNbqg/giphy.webp?cid=ecf05e47a0wi5jz1o9ieyv89709pg60hhpyjx84lxvbqgj5u&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="30px">&nbsp;***About me***
 
 I am a student of web application development "DAW" always motivated and eager to learn more.
-* **My goals are to become a full stack programmer.**
-- My motto is, if you want to win the lottery, you have to make the money to buy a ticket 💵.
-- I like to work both in a team and alone 🤝.
-- My hobbies are watching movies and series🎬, listen to music 🎵, and spending time with friends 💛.
+* **My goals are to become a full-stack programmer.**
+- I enjoy working both independently and as part of a team 🤝.
 
 ## Skills I'm learning and boosting 🚀
 
