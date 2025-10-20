@@ -6,6 +6,7 @@
 
 I am a student of web application development "DAW" always motivated and eager to learn more.
 * **My goals are to become a full-stack programmer.**
+- I approach problems with optimism and determination.
 - I enjoy working both independently and as part of a team 🤝.
 ## Skills I'm learning and boosting 🚀
 
